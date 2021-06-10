@@ -4,9 +4,11 @@ This is the React Native app that I build to view information about COVID-19, su
 
 ## Here are some images and video about my app
 
+<div style="height: 100%; width: 100%; display: flex;">
+
 <img src="https://raw.githubusercontent.com/voquanghieu28/Covid-19-React-Native/main/screenshots/1.PNG" width="250" title="hover text">
 <img src="https://raw.githubusercontent.com/voquanghieu28/Covid-19-React-Native/main/screenshots/2.PNG" width="250" title="hover text">
 <img src="https://raw.githubusercontent.com/voquanghieu28/Covid-19-React-Native/main/screenshots/5.PNG" width="250" title="hover text">
-
+</div>
 
 Thank you for viewing my profile!!
